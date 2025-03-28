@@ -1,0 +1,85 @@
+Extracted_Locations,Location_Coordinates,Risk_Level,Sentiment_Label
+"['Africa', 'Italy']","[{'location': 'Africa', 'latitude': 11.5024338, 'longitude': 17.7578122}, {'location': 'Italy', 'latitude': 42.6384261, 'longitude': 12.674297}]",Low Concern,Negative
+['Europe'],"[{'location': 'Europe', 'latitude': 51.0, 'longitude': 10.0}]",Low Concern,Negative
+['Los Angeles'],"[{'location': 'Los Angeles', 'latitude': 34.0536909, 'longitude': -118.242766}]",High-Risk,Positive
+['Europe'],"[{'location': 'Europe', 'latitude': 51.0, 'longitude': 10.0}]",Low Concern,Negative
+['Washington DC'],"[{'location': 'Washington DC', 'latitude': 38.8950368, 'longitude': -77.0365427}]",High-Risk,Negative
+['Africa'],"[{'location': 'Africa', 'latitude': 11.5024338, 'longitude': 17.7578122}]",Moderate Concern,Negative
+['Us'],"[{'location': 'Us', 'latitude': 39.7837304, 'longitude': -100.445882}]",Low Concern,Negative
+['Us'],"[{'location': 'Us', 'latitude': 39.7837304, 'longitude': -100.445882}]",High-Risk,Negative
+['California'],"[{'location': 'California', 'latitude': 36.7014631, 'longitude': -118.755997}]",Low Concern,Positive
+"['New Hampshire', 'Arkansas', 'Oregon', 'Missouri', 'New Mexico', 'South Carolina', 'New York', 'Massachusetts', 'Florida', 'California', 'Lebanon']","[{'location': 'New Hampshire', 'latitude': 43.4849133, 'longitude': -71.6553992}, {'location': 'Arkansas', 'latitude': 35.2048883, 'longitude': -92.4479108}, {'location': 'Oregon', 'latitude': 43.9792797, 'longitude': -120.737257}, {'location': 'Missouri', 'latitude': 38.7604815, 'longitude': -92.5617875}, {'location': 'New Mexico', 'latitude': 34.5802074, 'longitude': -105.996047}, {'location': 'South Carolina', 'latitude': 33.6874388, 'longitude': -80.4363743}, {'location': 'New York', 'latitude': 40.7127281, 'longitude': -74.0060152}, {'location': 'Massachusetts', 'latitude': 42.3788774, 'longitude': -72.032366}, {'location': 'Florida', 'latitude': 27.7567667, 'longitude': -81.4639835}, {'location': 'California', 'latitude': 36.7014631, 'longitude': -118.755997}, {'location': 'Lebanon', 'latitude': 40.375713, 'longitude': -76.4626118}]",Low Concern,Positive
+"['Colorado', 'Texas']","[{'location': 'Colorado', 'latitude': 38.7251776, 'longitude': -105.607716}, {'location': 'Texas', 'latitude': 31.2638905, 'longitude': -98.5456116}]",Low Concern,Negative
+"['Colorado', 'Texas']","[{'location': 'Colorado', 'latitude': 38.7251776, 'longitude': -105.607716}, {'location': 'Texas', 'latitude': 31.2638905, 'longitude': -98.5456116}]",Low Concern,Positive
+['Colorado'],"[{'location': 'Colorado', 'latitude': 38.7251776, 'longitude': -105.607716}]",Low Concern,Negative
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",High-Risk,Negative
+"['Manhattan', 'New York', 'New York City', 'California']","[{'location': 'Manhattan', 'latitude': 40.7896239, 'longitude': -73.9598939}, {'location': 'New York', 'latitude': 40.7127281, 'longitude': -74.0060152}, {'location': 'New York City', 'latitude': 40.7127281, 'longitude': -74.0060152}, {'location': 'California', 'latitude': 36.7014631, 'longitude': -118.755997}]",Moderate Concern,Negative
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",High-Risk,Positive
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",High-Risk,Negative
+['Los Angeles'],"[{'location': 'Los Angeles', 'latitude': 34.0536909, 'longitude': -118.242766}]",Low Concern,Positive
+['Japan'],"[{'location': 'Japan', 'latitude': 36.5748441, 'longitude': 139.2394179}]",Moderate Concern,Positive
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",Low Concern,Positive
+['Africa'],"[{'location': 'Africa', 'latitude': 11.5024338, 'longitude': 17.7578122}]",Moderate Concern,Negative
+['Comfort Zone'],"[{'location': 'Comfort Zone', 'latitude': 43.6346897, 'longitude': -79.54203}]",Low Concern,Positive
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",Low Concern,Negative
+['Europe'],"[{'location': 'Europe', 'latitude': 51.0, 'longitude': 10.0}]",High-Risk,Positive
+['Canada'],"[{'location': 'Canada', 'latitude': 61.0666922, 'longitude': -107.991707}]",Low Concern,Positive
+"['Mexico', 'Canada']","[{'location': 'Mexico', 'latitude': 23.6585116, 'longitude': -102.0077097}, {'location': 'Canada', 'latitude': 61.0666922, 'longitude': -107.991707}]",Low Concern,Positive
+"['United Kingdom', 'London']","[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}, {'location': 'London', 'latitude': 51.4893335, 'longitude': -0.14405508452768728}]",Low Concern,Positive
+"['United Kingdom', 'Canada']","[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}, {'location': 'Canada', 'latitude': 61.0666922, 'longitude': -107.991707}]",Low Concern,Positive
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",High-Risk,Negative
+['Europe'],"[{'location': 'Europe', 'latitude': 51.0, 'longitude': 10.0}]",Low Concern,Negative
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",Low Concern,Positive
+['Texas'],"[{'location': 'Texas', 'latitude': 31.2638905, 'longitude': -98.5456116}]",High-Risk,Positive
+"['United Kingdom', 'Africa']","[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}, {'location': 'Africa', 'latitude': 11.5024338, 'longitude': 17.7578122}]",Low Concern,Negative
+"['United Kingdom', 'Canada']","[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}, {'location': 'Canada', 'latitude': 61.0666922, 'longitude': -107.991707}]",Low Concern,Positive
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",High-Risk,Negative
+['Canada'],"[{'location': 'Canada', 'latitude': 61.0666922, 'longitude': -107.991707}]",Low Concern,Positive
+['Helpline'],"[{'location': 'Helpline', 'latitude': 48.1499855, 'longitude': 11.4427019}]",Moderate Concern,Negative
+"['America', 'Asia Asap', 'Asia', 'New York', 'Europe']","[{'location': 'America', 'latitude': 39.7837304, 'longitude': -100.445882}, {'location': 'Asia', 'latitude': 51.2086975, 'longitude': 89.2343748}, {'location': 'New York', 'latitude': 40.7127281, 'longitude': -74.0060152}, {'location': 'Europe', 'latitude': 51.0, 'longitude': 10.0}]",Low Concern,Positive
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",Low Concern,Negative
+"['Us', 'Kinda']","[{'location': 'Us', 'latitude': 39.7837304, 'longitude': -100.445882}, {'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",High-Risk,Positive
+['Tennessee'],"[{'location': 'Tennessee', 'latitude': 35.7730076, 'longitude': -86.2820081}]",High-Risk,Negative
+['Toronto'],"[{'location': 'Toronto', 'latitude': 43.6534817, 'longitude': -79.3839347}]",Moderate Concern,Positive
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",Low Concern,Negative
+['China'],"[{'location': 'China', 'latitude': 35.0000663, 'longitude': 104.999955}]",Low Concern,Negative
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",Low Concern,Negative
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",Low Concern,Negative
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",Low Concern,Negative
+['Chicago'],"[{'location': 'Chicago', 'latitude': 41.8755616, 'longitude': -87.6244212}]",High-Risk,Negative
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",High-Risk,Negative
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",Low Concern,Positive
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",High-Risk,Negative
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",Low Concern,Positive
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",Low Concern,Negative
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",Low Concern,Negative
+['Netherlands'],"[{'location': 'Netherlands', 'latitude': 52.2434979, 'longitude': 5.6343227}]",Low Concern,Negative
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",Low Concern,Negative
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",High-Risk,Positive
+"['South Carolina', 'Florida']","[{'location': 'South Carolina', 'latitude': 33.6874388, 'longitude': -80.4363743}, {'location': 'Florida', 'latitude': 27.7567667, 'longitude': -81.4639835}]",Low Concern,Negative
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",Low Concern,Positive
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",Moderate Concern,Negative
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",High-Risk,Negative
+['America'],"[{'location': 'America', 'latitude': 39.7837304, 'longitude': -100.445882}]",High-Risk,Neutral
+['Mexico'],"[{'location': 'Mexico', 'latitude': 23.6585116, 'longitude': -102.0077097}]",Low Concern,Negative
+['South America'],"[{'location': 'South America', 'latitude': -21.0002179, 'longitude': -61.0006565}]",High-Risk,Negative
+['Florida'],"[{'location': 'Florida', 'latitude': 27.7567667, 'longitude': -81.4639835}]",Low Concern,Negative
+"['Venezuela', 'Latin America', 'Europe']","[{'location': 'Venezuela', 'latitude': 8.0018709, 'longitude': -66.1109318}, {'location': 'Latin America', 'latitude': 42.3739168, 'longitude': -71.11066769180692}, {'location': 'Europe', 'latitude': 51.0, 'longitude': 10.0}]",Low Concern,Negative
+['North India'],"[{'location': 'North India', 'latitude': 37.787747, 'longitude': -122.3992384}]",Low Concern,Negative
+['India'],"[{'location': 'India', 'latitude': 22.3511148, 'longitude': 78.6677428}]",Low Concern,Negative
+['Fort'],"[{'location': 'Fort', 'latitude': 25.3851063, 'longitude': 86.46769912015446}]",Low Concern,Positive
+['Canada'],"[{'location': 'Canada', 'latitude': 61.0666922, 'longitude': -107.991707}]",Low Concern,Positive
+['Spain'],"[{'location': 'Spain', 'latitude': 39.3260685, 'longitude': -4.8379791}]",Low Concern,Negative
+['Canada'],"[{'location': 'Canada', 'latitude': 61.0666922, 'longitude': -107.991707}]",Moderate Concern,Negative
+['California'],"[{'location': 'California', 'latitude': 36.7014631, 'longitude': -118.755997}]",High-Risk,Negative
+['United Kingdom'],"[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}]",High-Risk,Negative
+['Switzerland'],"[{'location': 'Switzerland', 'latitude': 46.7985624, 'longitude': 8.2319736}]",Low Concern,Negative
+"['Texas', 'Turkey']","[{'location': 'Texas', 'latitude': 31.2638905, 'longitude': -98.5456116}, {'location': 'Turkey', 'latitude': 39.294076, 'longitude': 35.2316631}]",Low Concern,Negative
+['Us'],"[{'location': 'Us', 'latitude': 39.7837304, 'longitude': -100.445882}]",Low Concern,Positive
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",High-Risk,Positive
+"['New York', 'New York City']","[{'location': 'New York', 'latitude': 40.7127281, 'longitude': -74.0060152}, {'location': 'New York City', 'latitude': 40.7127281, 'longitude': -74.0060152}]",High-Risk,Negative
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",Low Concern,Positive
+"['United Kingdom', 'Uk']","[{'location': 'United Kingdom', 'latitude': 54.7023545, 'longitude': -3.2765753}, {'location': 'Uk', 'latitude': 6.3110548, 'longitude': 20.5447525}]",High-Risk,Positive
+['Los Angeles'],"[{'location': 'Los Angeles', 'latitude': 34.0536909, 'longitude': -118.242766}]",Moderate Concern,Positive
+['Thailand'],"[{'location': 'Thailand', 'latitude': 14.8971921, 'longitude': 100.83273}]",Low Concern,Negative
+['Kinda'],"[{'location': 'Kinda', 'latitude': 57.9946553, 'longitude': 15.8926885}]",Moderate Concern,Positive
